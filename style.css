@@ -105,10 +105,8 @@
     width: 476px;
     height: 571px;
     text-align: center;
-    margin-top: 98px;
     float: right;
-    margin-right: 230px;
-    margin-bottom: 106px;
+    margin: 98px 230px 106px 0px;
 }
 
 .button{
